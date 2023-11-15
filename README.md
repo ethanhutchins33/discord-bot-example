@@ -11,3 +11,7 @@ Example "Hello, world!" discord bot.
 ## How to run
 
 To "run" the bot, run `node bot.js`.
+
+## Remarks
+
+Original tutorial by The Coding Train [here](https://github.com/CodingTrain/Discord-Bot-Examples/blob/main/01-discordjs/README.md).

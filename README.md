@@ -4,8 +4,10 @@
 
 Example "Hello, world!" discord bot.
 
-## How to run
+-   `commands/choochoo.js`: Defines a simple slash command.
+-   `bot.js`: Handles interactions with Discord and executes commands.
+-   `deploy-commands.js`: Script to register slash commands with Discord API.
 
-To "deploy" the slash commands, run `node deploy-commands.js`.
+## How to run
 
 To "run" the bot, run `node bot.js`.
